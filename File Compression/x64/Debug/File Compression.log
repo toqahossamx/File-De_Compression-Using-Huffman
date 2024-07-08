@@ -1,0 +1,3 @@
+﻿  File Compression.cpp
+C:\Users\total\Main Drive\AASTMT\Term 4\Data Structure and Algoritm\Project\File Compression\File Compression.cpp(223): warning C4715: 'Huffman::isLeaf': not all control paths return a value
+  File Compression.vcxproj -> C:\Users\total\Main Drive\AASTMT\Term 4\Data Structure and Algoritm\Project\File Compression\x64\Debug\File Compression.exe
